@@ -1,0 +1,6 @@
+faker
+dotenv
+pymongo
+python-dotenv
+snowflake-connector-python[pandas]
+pyarrow
