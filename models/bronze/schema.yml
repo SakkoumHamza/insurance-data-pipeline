@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: insurance
+    database: insurance_db
+    schema: raw
+    tables:
+      - name: claims
+      - name: customers
