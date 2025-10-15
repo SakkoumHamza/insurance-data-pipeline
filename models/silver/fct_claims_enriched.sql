@@ -17,4 +17,4 @@ SELECT
     cust.policy_type
 FROM claims c
 LEFT JOIN customers cust
-    ON c.customer_id = cust.customer_id;
+    ON c.customer_id = cust.customer_id
